@@ -8,9 +8,10 @@
 
 ## Goals
 
-- [ ] Code daily
+- [ ] Code for an hour daily
 - [ ] Build at least three deployed projects
-- [ ] Share progress through the notMyFirstCodeo channels
+- [ ] Share progress through notMyFirstCodeo with #100DaysOfCode
+- [ ] Reach out to at least two people on Twitter who are also doing the challenge
 
 <!-- ## Projects
 
