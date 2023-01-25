@@ -6,4 +6,12 @@
 
 **Thoughts** 100 days is a long prospect, but breaking it down into small chunks/projects will be key to getting through it.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Not My First Codeo](https://github.com/notMyFirstCodeo/website/commit/674f5d0f4a8b78038839ff3e0e3b366dcc45d8fe)
+
+### Day 2: January 25th, 2023
+
+**Today's Progress**: Added Tailwind, learning about the different utility classes. Also discovered the [typography plugin](https://tailwindcss.com/docs/typography-plugin) for adding styling to the Markdown-generated HTML content.
+
+**Thoughts** Reading about other people who had done the challenge, the consistent time focus is distinctly more important than the outcome. Managed a full cycle of Pomodoro (4x25mins) on non-work coding this evening.
+
+**Link to work:** [Not My First Codeo](https://github.com/notMyFirstCodeo/website/commit/9c332001c0ac48d7ce2eb2b39530725baba47aef)
