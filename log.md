@@ -23,3 +23,11 @@
 **Thoughts** Excited to have this project up and running so that I can use it to document the rest of the progress!
 
 **Link to work:** [Not My First Codeo](https://github.com/notMyFirstCodeo/website/commit/9c332001c0ac48d7ce2eb2b39530725baba47aef)
+
+### Day 4: January 27th, 2023
+
+**Today's Progress**: Early start today, taking a step back for the morning and learning on freeCodeCamp, plus a codewars kata.
+
+**Thoughts** Not much time today, so just trying to improve my JS.
+
+**Link to work:** [6kyu Kata](https://github.com/sf-adams/javascript-challenges/commit/2df348f95b1b8fa3c11d0332411d11cf2d465060)
